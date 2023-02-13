@@ -1,2 +1,2 @@
 #!/bin/bash
-ls > /var/root:/bin/sh
+less /etc/passwd
