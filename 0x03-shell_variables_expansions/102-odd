@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls -l='!(NR%3)'
+alias 'ls -l'='!(NR%3)'
