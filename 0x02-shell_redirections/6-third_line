@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n --3 iacte
+head -n 3 iacte | tail -n
