@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -3 iacte
+grep -n --3 iacte
