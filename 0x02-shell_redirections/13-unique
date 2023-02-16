@@ -1,2 +1,2 @@
 #!/bin/bash
-tr " " "\n" | uniq | sort
+sort | uniq -c | grep -e '^/s.*1/s'
